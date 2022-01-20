@@ -13,9 +13,6 @@ soupe et faire des petits tas espacés les uns des autres ; ils grandiront à la
 
 Enfourner pour 10 minutes de cuisson.
 
-<<<<<<< HEAD
 Dresser un plat avec les cookies
 réalisés
-=======
 Bon appétit!
->>>>>>> e2980818a57a7f881df21deeda8b69abd9b39e46
